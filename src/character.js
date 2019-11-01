@@ -23,7 +23,7 @@ Character.prototype = {
     }
   },
   speak: function () {
-    return this.dialog;
+    return this.dialogue;
   },
 };
 
